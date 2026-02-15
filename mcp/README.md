@@ -17,6 +17,10 @@ The following steps describe the current state of the project:
 ## Setup
 
 1.  Clone the repository.
+    ```bash
+    git clone https://github.com/ehimshr/practice_ik_himanshu.git
+    cd practice_ik_himanshu/mcp
+    ```
 2.  Create a virtual environment:
     ```bash
     python -m venv venv
